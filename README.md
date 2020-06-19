@@ -3,7 +3,7 @@
 
 ## Startar Projeto
 ```
-Npm install
+npm install
 ```
 ### Backend - cd backend
 ```
@@ -15,7 +15,7 @@ npm start
 ```
 
 ### Tecnologias
- - Node.js
+- Node.js
 - Express
 - Socket.io
 - Systeminformation
